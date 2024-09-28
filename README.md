@@ -40,6 +40,7 @@ pip install numpy pandas scikit-learn nltk joblib matplotlib seaborn
 
 2. Download the dataset:
    - Ensure you have the Twitter dataset file named `training.1600000.processed.noemoticon.csv` placed in the project directory.
+   - WARNING : CONTACT TO GET THE DATASET ( nhhkha.91tn@gmail.com )
 
 ## Usage
 
