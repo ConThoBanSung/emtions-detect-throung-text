@@ -34,7 +34,7 @@ pip install numpy pandas scikit-learn nltk joblib matplotlib seaborn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/twitter-sentiment-analysis.git
+   git clone https://github.com/ConThoBanSung/emtions-detect-throung-text
    cd twitter-sentiment-analysis
    ```
 
@@ -48,7 +48,7 @@ pip install numpy pandas scikit-learn nltk joblib matplotlib seaborn
 Run the following command to train the Logistic Regression model:
 
 ```bash
-python train_model.py
+python train.py
 ```
 
 This will preprocess the data, train the model, and save the trained model and vectorizer as `logistic_regression_model.joblib` and `tfidf_vectorizer.joblib`.
