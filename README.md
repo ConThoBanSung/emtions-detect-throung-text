@@ -71,6 +71,23 @@ The evaluation will produce the following metrics:
 - **Recall:** The ratio of correctly predicted positive observations to all actual positives.
 - **F1 Score:** The weighted average of Precision and Recall.
 
+  ![image](https://github.com/user-attachments/assets/0c583a00-b622-4ec8-8948-6c7d56765711)
+
+  ![image](https://github.com/user-attachments/assets/5bc14137-5b3d-473c-92d1-0a6581ae60a8)
+
+  ![image](https://github.com/user-attachments/assets/fc33162f-d075-48c1-84b0-1f7f6e4f60ab)
+
+  ![image](https://github.com/user-attachments/assets/c871a3b1-8aa7-439a-b95c-8f20314872f0)
+
+  ![image](https://github.com/user-attachments/assets/22e63019-23ac-4438-9673-856c782125d9)
+
+  
+
+
+
+
+
+
 A confusion matrix will also be displayed to visualize the model's performance.
 
 ## Contributing
